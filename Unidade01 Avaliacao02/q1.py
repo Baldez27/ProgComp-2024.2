@@ -1,5 +1,5 @@
 # Questão 1: Contar números decrescentes de 10 a 987631
-# Alunos: [Seu Nome] - Matrícula: 20242014050023
+# Alunos: Daniel Baldez - Matrícula: 20242014050023
 # Github: Baldez27
 
 # Contador para armazenar a quantidade de números decrescentes

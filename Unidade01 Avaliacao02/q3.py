@@ -1,5 +1,5 @@
 # Questão 3: Contar pares de primos ímpares consecutivos menores que 1.000.000
-# Alunos: [Seu Nome] - Matrícula: 20242014050023
+# Alunos: Daniel Baldez - Matrícula: 20242014050023
 # Github: Baldez27
 
 # Contador para armazenar a quantidade de pares de primos

@@ -1,5 +1,5 @@
 # Questão 2: Contar números palíndromos de 10 a 100000
-# Alunos: [Seu Nome] - Matrícula: 20242014050023
+# Alunos: Daniel Baldez - Matrícula: 20242014050023
 # Github: Baldez27
 
 # Contador para armazenar a quantidade de palíndromos
